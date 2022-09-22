@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Praktikum WEB</title>
+</head>
+<body>
+  <h1>Siti Haerani</h1>
+</body>
+
 <script>
 var x = document.getElementById("demo");
 function getLocation() {
@@ -13,3 +22,5 @@ function showPosition(position) {
   "<br>Longitude: " + position.coords.longitude;
 }
 </script>
+
+</html>
